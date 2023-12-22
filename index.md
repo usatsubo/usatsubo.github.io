@@ -50,6 +50,13 @@ usatsubo2022@gmail.com
 または インスタグラムからのDMでお願いします 
 https://www.instagram.com/usatsubo/
 
-{% include_relative _includes/publications.md %}
+### 《 アクセス / 所在地 》
 
-{% include_relative _includes/services.md %}
+　　・近鉄奈良駅から南へ徒歩12分（詳細はご予約時にお伝えいたします）
+　　・奈良市脇戸町25
+
+　　◎ 駐車場がありません（自転車、バイクは止められます）。
+　　　申し訳ないのですが、最寄りの駐車場をご利用ください。
+　　◎ 施術後は普段よりもぽやんと眠気をもよおしやすくなっています。
+　　　 くれぐれもご注意ください。
+
