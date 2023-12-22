@@ -38,10 +38,17 @@ layout: homepage
 
 ## ご予約に関して
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+### 《 営業時間 》
+
+10:00 - 16:00 （入店時間）
+不定休のため問い合わせください
+
+### 《 予約 / 問い合わせ 》
+
+usatsubo2022@gmail.com
+
+または インスタグラムからのDMでお願いします 
+https://www.instagram.com/usatsubo/
 
 {% include_relative _includes/publications.md %}
 
