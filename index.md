@@ -11,8 +11,9 @@ layout: homepage
 - クレイテラピスト　　（アロマ・フランス認定）
 - 植物療法士　　（チムグスイ植物療法スクール アドバンス修了）
 
-{: align="center"}
-<img src="assets/img/bonhomme.jpg" width="200" class="center"> <img src="assets/img/interieur.jpg" width="200" class="center"> <img src="assets/img/bonhomme2.jpg" width="200" class="center">
+<div style="text-align: center;">
+  <img src="assets/img/bonhomme.jpg" width="200" class="center"> <img src="assets/img/interieur.jpg" width="200" class="center"> <img   src="assets/img/bonhomme2.jpg" width="200" class="center">
+</div>
 
 ## メニュー紹介
 
