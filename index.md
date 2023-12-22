@@ -14,9 +14,9 @@ layout: homepage
 
 ## メニュー紹介
 
-- 足裏基本コース 60分 6,000円
+### 足裏基本コース 60分 6,000円
 *足裏の反射区を刺激したのち脚を中心に腰までマッサージすることで老廃物を体外に排出しやすく*
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+### 足裏お手軽コース 30分 3,000円
 
 ## ご予約に関して
 
