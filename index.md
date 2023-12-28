@@ -25,6 +25,8 @@ layout: homepage
 
 ### うさつぼ便り
 
+[vol](assets/files/vol.pdf)
+
 ### メニュー紹介
 
 * 足裏基本コース 60分 6,000円\
