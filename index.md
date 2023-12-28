@@ -12,12 +12,12 @@ layout: homepage
 
 うさつぼ店主　藤井裕子
 
-- リフレクソロジスト
- （フットセラピー認定）
+*リフレクソロジスト\
+（フットセラピー認定）
 - クレイテラピスト
-  アロマ・フランス認定）
+　　（アロマ・フランス認定）
 - 植物療法士
-  チムグスイ植物療法スクール アドバンス修了）
+　　（チムグスイ植物療法スクール アドバンス修了）
 
 <center>
 <img src="assets/img/bonhomme.jpg" width="200" >  <img src="assets/img/interieur.jpg" width="200" >
