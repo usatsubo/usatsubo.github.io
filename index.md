@@ -29,10 +29,10 @@ layout: homepage
 </center>
 
 ### うさつぼ便り
-[vo0](assets/files/vo.pdf)
-[vol](assets/files/vol.pdf)
-[vo2](assets/files/vo2.pdf)
-[vo3](assets/files/vo3.pdf)
+[vol0](assets/files/vol.pdf)
+[vol1](assets/files/vol1.pdf)
+[vol2](assets/files/vol2.pdf)
+[vol3](assets/files/vol3.pdf)
 
 ### メニュー紹介
 
