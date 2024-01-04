@@ -31,6 +31,8 @@ layout: homepage
 ### うさつぼ便り
 
 [vol](assets/files/vol.pdf)
+[vo2](assets/files/vo2.pdf)
+[vo3](assets/files/vo3.pdf)
 
 ### メニュー紹介
 
