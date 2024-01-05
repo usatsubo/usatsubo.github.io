@@ -115,9 +115,9 @@ https://www.instagram.com/usatsubo/
   \
   奈良公園の日常風景です。\
   興福寺境内、春日大社参道横の林を中心に、\
-  目に入ったもの興味を持ったもの事を、\
+  目に入ったもの興味を持ったものごとを、\
   2022年から2023年初めにかけて描きとめていました。\
-https://note.com/usatsubo/m/mec27d8b0c91e
+  https://note.com/usatsubo/m/mec27d8b0c91e
 
 
 * 2023年うさつぼの旅\
@@ -129,6 +129,5 @@ https://note.com/usatsubo/m/mec27d8b0c91e
 だけどこういう寄り道まわり道が\
 人生の醍醐味なのではないでしょうか。\
 ヒトとしての厚みにもね、なるかもしれないですしね。\
-めげずにてくてく歩きます。
-  
+めげずにてくてく歩きます。\
 https://note.com/usatsubo/m/m305e7e89e082
